@@ -5,6 +5,7 @@ name = input("What is your name")
 name = name.upper() 
 name = name.strip()
 print('Welcome '+name+' to your passsword generator')
+print('Welcome '+name+' to your passsword generator')
 lower = "abcdefghijklmnopqrstuvwxyz"
 upper = lower.upper()
 number = "1234567890"
